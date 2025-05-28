@@ -75,8 +75,6 @@ Backend will run on: [http://localhost:3000](http://localhost:3000)
 
 ## 🎨 Frontend Setup (`chat-frontend/`)
 
-> \[COMING SOON] (Ask me and I'll generate the full frontend for you!)
-
 ---
 
 ## 🧪 Technologies Used
